@@ -1,0 +1,33 @@
+[
+	{
+		"firstName": "Tejal",
+		"lastName": "Bandaru",
+		"gender": "women",
+		"age": 24,
+		"address": {
+			"streetAddress": "126",
+			"city": "San Jone",
+			"state": "CA",	
+			"postalCode": "394221"
+		},
+		"phoneNumbers": [
+			{ "type": "home", "number": "7383627627" },
+			{ "type": "ofc", "number": "254545454" }
+		]
+	},
+	{
+	"firstName": "Aman",
+    "lastName": "Naresh",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "126",
+        "city": "Tenali",
+        "state": "AP",
+        "postalCode": "394221"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627123" }
+    ]
+	}
+]
